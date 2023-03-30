@@ -9,5 +9,7 @@ Hardware requirements:
 - LoRa module
 - Plastic foil
 
+<img src=https://user-images.githubusercontent.com/1893754/228846336-d1fffcad-7835-48b6-bae6-96bb12b68972.png width=300>
+
 
 Credits: David Lynch, Sheryl Lee, Kongduino
